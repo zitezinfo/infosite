@@ -1,0 +1,23 @@
+
+
+=== //2022 version  ===
+
+
+
+
+=== 20/06/2022 version 6 ===
+
+Ajout de l'affichage des extensions désactivées
+
+Modification de l'URL du site affiché
+
+
+=== 16/06/2022 version 5 ===
+
+Reprise du code de l'extension https://fr.wordpress.org/plugins/forum-wordpress-fr/
+
+Ajout des informations des slugs des thèmes et de la présence d'un thème parent
+
+Version testée avec WordPress versions 5.9 et 6.0, PHP versions 8.0 et 8.1
+
+
