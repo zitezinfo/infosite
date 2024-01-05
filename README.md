@@ -7,4 +7,4 @@ Cette extension WordPress permet d'afficher un résumé des informations du site
 + Dans l'espace d'administration, allez dans *Extensions* -> *Ajouter* -> *Téléverser une extension* ;
 + Enfin, activez l'extension et allez sur le tableau de bord pour voir le résultat.
 
-L'extension a été testée avec WordPress 6.2.2 et les versions de PHP 7.2, 8.0 et 8.1.
+L'extension a été testée avec WordPress 6.4.2 et les versions de PHP 7.2, 8.0 et 8.1.
